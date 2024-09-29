@@ -76,8 +76,11 @@ const Section = () => {
           <div>
           <h3 className="text-3xl font-bold text-gray-700 mb-5 ">Awards & Achievement</h3>
           <p className="text-gray-600 mb-4">🏆 Nanotechnology immersion information</p>
+
           <p className="text-gray-600 mb-4">🏆 Nanotechnology immersion information</p>
+
           <p className="text-gray-600 mb-4">🏆 Nanotechnology immersion information</p>
+          
           <p className="text-gray-600 mb-4">🏆 Nanotechnology immersion information</p>
           </div>
         </div>
